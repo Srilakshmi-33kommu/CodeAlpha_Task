@@ -1,0 +1,11 @@
+Income,Debt,Age,PaymentHistory,CreditLimit,CreditUsed,EmploymentType,EducationLevel,Creditworthiness
+75000,15000,42,0.95,25000,10000,FullTime,Bachelors,1
+45000,35000,28,0.82,15000,14000,PartTime,HighSchool,0
+62000,22000,35,0.91,35000,12000,FullTime,Masters,1
+38000,42000,31,0.78,12000,11500,SelfEmployed,Bachelors,0
+55000,18000,45,0.97,30000,8000,FullTime,Bachelors,1
+52000,28000,29,0.85,20000,18000,PartTime,HighSchool,0
+68000,12000,50,0.99,40000,15000,FullTime,PhD,1
+42000,38000,33,0.80,18000,17000,Unemployed,HighSchool,0
+58000,25000,37,0.93,32000,11000,FullTime,Masters,1
+49000,32000,26,0.87,22000,20000,PartTime,Bachelors,0
